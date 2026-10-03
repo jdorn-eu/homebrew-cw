@@ -1,16 +1,16 @@
-# Jdorn-eu Cw
+# unixcw homebrew tap
 
-## How do I install these formulae?
+## How to install unixcw?
 
-`brew install jdorn-eu/cw/<formula>`
+`brew install jdorn-eu/cw/unixcw`
 
-Or `brew tap jdorn-eu/cw` and then `brew install <formula>`.
+Or `brew tap jdorn-eu/cw` and then `brew install unixcw`.
 
 Or, in a `brew bundle` `Brewfile`:
 
 ```ruby
 tap "jdorn-eu/cw"
-brew "<formula>"
+brew "unixcw"
 ```
 
 ## Documentation
