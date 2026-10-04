@@ -1,18 +1,6 @@
 # unixcw homebrew tap
 
-## How to install unixcw?
+**ARCHIVED**
+This package is now included in `homebrew-core`, no additional tap needed.
 
-`brew install jdorn-eu/cw/unixcw`
-
-Or `brew tap jdorn-eu/cw` and then `brew install unixcw`.
-
-Or, in a `brew bundle` `Brewfile`:
-
-```ruby
-tap "jdorn-eu/cw"
-brew "unixcw"
-```
-
-## Documentation
-
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+Just run `brew install unixcw`.
